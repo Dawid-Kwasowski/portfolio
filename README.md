@@ -1,2 +1,2 @@
 # dawid-kwasowski-portfolio
-[https://dawid-kwasowski.github.io/portfolio/](Porfolio)
+[Porfolio](https://dawid-kwasowski.github.io/portfolio/)
